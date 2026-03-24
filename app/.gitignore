@@ -1,0 +1,30 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration (IMPORTANT: contains your local paths)
+local.properties
+
+# Android Studio / IntelliJ files
+.idea/workspace.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+*.iml
+
+# Built variants
+bin/
+gen/
+out/
+
+# Log files
+*.log
+
+# External native build output
+.externalNativeBuild/
+.cxx/
+
+# OS specific files
+.DS_Store
+Thumbs.db
